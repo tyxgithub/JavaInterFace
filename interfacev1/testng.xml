@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="规则平台">
+    <test name="test_parame_management">
+        <classes>
+            <class name="com.cases.ParameManagement">
+                <parameter name="setStartSheetIndex" value="0"></parameter>
+                <parameter name="setSheetNum" value="1"></parameter>
+                <parameter name="MappingClass" value="com.pojo.CaseInfo"></parameter>
+            </class>
+        </classes>
+    </test>
+    <test name="test__data_access">
+        <classes>
+            <class name="com.cases.DataAccess">
+                <parameter name="setStartSheetIndex" value="1"></parameter>
+                <parameter name="setSheetNum" value="1"></parameter>
+                <parameter name="MappingClass" value="com.pojo.CaseInfo"></parameter>
+            </class>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,431 @@
+2020-12-21 14:16:38 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 1,用例标题: 新增验证策略-----
+2020-12-21 14:16:38 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 14:16:38 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 2,用例标题: 查询验证策略-----
+2020-12-21 14:16:38 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 14:16:38 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 3,用例标题: 根据id查询验证策略-----
+2020-12-21 14:16:38 [main] [com.cases.BaseCase] [INFO] - 字段1: 断言失败！正则表达式字段：$.data.priority,实际值：null，期望值：13
+2020-12-21 14:16:38 [main] [com.cases.BaseCase] [INFO] - 字段2: 断言失败！正则表达式字段：$.data.updateBy,实际值：null，期望值：admin
+2020-12-21 14:16:38 [main] [com.cases.BaseCase] [INFO] - 字段4: 断言失败！正则表达式字段：$.data.type,实际值：null，期望值：VERIFY
+2020-12-21 14:16:38 [main] [com.cases.BaseCase] [INFO] - 字段5: 断言失败！正则表达式字段：$.data.createBy,实际值：null，期望值：admin
+2020-12-21 14:16:38 [main] [com.cases.BaseCase] [INFO] - 字段6: 断言失败！正则表达式字段：$.data.createTime,实际值：null，期望值：1600065254590
+2020-12-21 14:16:38 [main] [com.cases.BaseCase] [INFO] - 字段7: 断言失败！正则表达式字段：$.data.name,实际值：null，期望值：验证策略bysystest
+2020-12-21 14:16:38 [main] [com.cases.BaseCase] [INFO] - 字段8: 断言失败！正则表达式字段：$.data.code,实际值：null，期望值：verifybysystest
+2020-12-21 14:16:38 [main] [com.cases.BaseCase] [INFO] - 字段9: 断言失败！正则表达式字段：$.data.id,实际值：null，期望值：1pkl0d9dofs0
+2020-12-21 14:16:38 [main] [com.cases.BaseCase] [INFO] - 字段10: 断言失败！正则表达式字段：$.data.sceneId,实际值：null，期望值：firstbysystest
+2020-12-21 14:16:38 [main] [com.cases.BaseCase] [INFO] - -----响应断言失败!!------
+2020-12-21 14:16:39 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 4,用例标题: 删除验证策略-----
+2020-12-21 14:16:39 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 14:16:39 [main] [com.cases.BaseCase] [INFO] - Excel数据回写成功.
+2020-12-21 15:04:42 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 1,用例标题: 新建验证策略，优先级输入0~10000的整数且不能重复-----
+2020-12-21 15:04:42 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 15:04:43 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 2,用例标题: 查询验证策略列表中所有策略-----
+2020-12-21 15:04:43 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 15:04:43 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 3,用例标题: 获取到针对某个id的验证策略信息-----
+2020-12-21 15:04:43 [main] [com.cases.BaseCase] [INFO] - 字段1: 断言失败！正则表达式字段：$.data.priority,实际值：null，期望值：13
+2020-12-21 15:04:43 [main] [com.cases.BaseCase] [INFO] - 字段2: 断言失败！正则表达式字段：$.data.updateBy,实际值：null，期望值：admin
+2020-12-21 15:04:43 [main] [com.cases.BaseCase] [INFO] - 字段4: 断言失败！正则表达式字段：$.data.type,实际值：null，期望值：VERIFY
+2020-12-21 15:04:43 [main] [com.cases.BaseCase] [INFO] - 字段5: 断言失败！正则表达式字段：$.data.createBy,实际值：null，期望值：admin
+2020-12-21 15:04:43 [main] [com.cases.BaseCase] [INFO] - 字段6: 断言失败！正则表达式字段：$.data.createTime,实际值：null，期望值：1600065254590
+2020-12-21 15:04:43 [main] [com.cases.BaseCase] [INFO] - 字段7: 断言失败！正则表达式字段：$.data.name,实际值：null，期望值：验证策略bysystest
+2020-12-21 15:04:43 [main] [com.cases.BaseCase] [INFO] - 字段8: 断言失败！正则表达式字段：$.data.code,实际值：null，期望值：verifybysystest
+2020-12-21 15:04:43 [main] [com.cases.BaseCase] [INFO] - 字段9: 断言失败！正则表达式字段：$.data.id,实际值：null，期望值：1pkl0d9dofs0
+2020-12-21 15:04:43 [main] [com.cases.BaseCase] [INFO] - 字段10: 断言失败！正则表达式字段：$.data.sceneId,实际值：null，期望值：firstbysystest
+2020-12-21 15:04:43 [main] [com.cases.BaseCase] [INFO] - -----响应断言失败!!------
+2020-12-21 15:04:44 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 4,用例标题: 根据id删除验证策略，支持批量-----
+2020-12-21 15:04:44 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 15:04:44 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 5,用例标题: 查询分组策略列表中所有策略-----
+2020-12-21 15:04:44 [main] [com.cases.BaseCase] [INFO] - 字段3: 断言失败！正则表达式字段：$.total,实际值：3，期望值：2
+2020-12-21 15:04:44 [main] [com.cases.BaseCase] [INFO] - -----响应断言失败!!------
+2020-12-21 15:04:44 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 6,用例标题: 修改验证策略，代码不允许修改-----
+2020-12-21 15:04:44 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 15:04:44 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 7,用例标题: 新建分组策略-----
+2020-12-21 15:04:44 [main] [com.cases.BaseCase] [INFO] - 字段1: 断言失败！正则表达式字段：$.success,实际值：false，期望值：true
+2020-12-21 15:04:44 [main] [com.cases.BaseCase] [INFO] - 字段2: 断言失败！正则表达式字段：$.sysName,实际值：null，期望值：SDM.PARAM.POLICY.GROUP
+2020-12-21 15:04:44 [main] [com.cases.BaseCase] [INFO] - -----响应断言失败!!------
+2020-12-21 15:04:44 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 8,用例标题: 修改分组策略，代码不允许修改-----
+2020-12-21 15:04:44 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 15:04:45 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 9,用例标题: 根据id删除分组策略，支持批量-----
+2020-12-21 15:04:45 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 15:04:45 [main] [com.cases.BaseCase] [INFO] - Excel数据回写成功.
+2020-12-21 15:16:14 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 1,用例标题: 新建验证策略，优先级输入0~10000的整数且不能重复-----
+2020-12-21 15:16:14 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 15:16:14 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 2,用例标题: 查询验证策略列表中所有策略-----
+2020-12-21 15:16:14 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 15:16:14 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 3,用例标题: 获取到针对某个id的验证策略信息-----
+2020-12-21 15:16:14 [main] [com.cases.BaseCase] [INFO] - 字段1: 断言失败！正则表达式字段：$.data.priority,实际值：null，期望值：13
+2020-12-21 15:16:14 [main] [com.cases.BaseCase] [INFO] - 字段2: 断言失败！正则表达式字段：$.data.updateBy,实际值：null，期望值：admin
+2020-12-21 15:16:14 [main] [com.cases.BaseCase] [INFO] - 字段4: 断言失败！正则表达式字段：$.data.type,实际值：null，期望值：VERIFY
+2020-12-21 15:16:14 [main] [com.cases.BaseCase] [INFO] - 字段5: 断言失败！正则表达式字段：$.data.createBy,实际值：null，期望值：admin
+2020-12-21 15:16:14 [main] [com.cases.BaseCase] [INFO] - 字段6: 断言失败！正则表达式字段：$.data.createTime,实际值：null，期望值：1600065254590
+2020-12-21 15:16:14 [main] [com.cases.BaseCase] [INFO] - 字段7: 断言失败！正则表达式字段：$.data.name,实际值：null，期望值：验证策略bysystest
+2020-12-21 15:16:14 [main] [com.cases.BaseCase] [INFO] - 字段8: 断言失败！正则表达式字段：$.data.code,实际值：null，期望值：verifybysystest
+2020-12-21 15:16:14 [main] [com.cases.BaseCase] [INFO] - 字段9: 断言失败！正则表达式字段：$.data.id,实际值：null，期望值：1pkl0d9dofs0
+2020-12-21 15:16:14 [main] [com.cases.BaseCase] [INFO] - 字段10: 断言失败！正则表达式字段：$.data.sceneId,实际值：null，期望值：firstbysystest
+2020-12-21 15:16:14 [main] [com.cases.BaseCase] [INFO] - -----响应断言失败!!------
+2020-12-21 15:16:15 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 4,用例标题: 根据id删除验证策略，支持批量-----
+2020-12-21 15:16:15 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 15:16:15 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 5,用例标题: 查询分组策略列表中所有策略-----
+2020-12-21 15:16:15 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 15:16:16 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 6,用例标题: 修改验证策略，代码不允许修改-----
+2020-12-21 15:16:16 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 15:16:16 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 7,用例标题: 新建分组策略-----
+2020-12-21 15:16:16 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 15:16:16 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 8,用例标题: 修改分组策略，代码不允许修改-----
+2020-12-21 15:16:16 [main] [com.cases.BaseCase] [INFO] - 字段1: 断言失败！正则表达式字段：$.success,实际值：false，期望值：true
+2020-12-21 15:16:16 [main] [com.cases.BaseCase] [INFO] - 字段2: 断言失败！正则表达式字段：$.sysName,实际值：null，期望值：SDM.PARAM.POLICY.GROUP
+2020-12-21 15:16:16 [main] [com.cases.BaseCase] [INFO] - -----响应断言失败!!------
+2020-12-21 15:16:17 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 9,用例标题: 根据id删除分组策略，支持批量-----
+2020-12-21 15:16:17 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 15:16:17 [main] [com.cases.BaseCase] [INFO] - Excel数据回写成功.
+2020-12-21 15:19:15 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 1,用例标题: 新建验证策略，优先级输入0~10000的整数且不能重复-----
+2020-12-21 15:19:15 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 15:19:16 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 2,用例标题: 查询验证策略列表中所有策略-----
+2020-12-21 15:19:16 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 15:19:16 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 3,用例标题: 获取到针对某个id的验证策略信息-----
+2020-12-21 15:19:16 [main] [com.cases.BaseCase] [INFO] - 字段1: 断言失败！正则表达式字段：$.data.priority,实际值：null，期望值：13
+2020-12-21 15:19:16 [main] [com.cases.BaseCase] [INFO] - 字段2: 断言失败！正则表达式字段：$.data.updateBy,实际值：null，期望值：admin
+2020-12-21 15:19:16 [main] [com.cases.BaseCase] [INFO] - 字段4: 断言失败！正则表达式字段：$.data.type,实际值：null，期望值：VERIFY
+2020-12-21 15:19:16 [main] [com.cases.BaseCase] [INFO] - 字段5: 断言失败！正则表达式字段：$.data.createBy,实际值：null，期望值：admin
+2020-12-21 15:19:16 [main] [com.cases.BaseCase] [INFO] - 字段6: 断言失败！正则表达式字段：$.data.createTime,实际值：null，期望值：1600065254590
+2020-12-21 15:19:16 [main] [com.cases.BaseCase] [INFO] - 字段7: 断言失败！正则表达式字段：$.data.name,实际值：null，期望值：验证策略bysystest
+2020-12-21 15:19:16 [main] [com.cases.BaseCase] [INFO] - 字段8: 断言失败！正则表达式字段：$.data.code,实际值：null，期望值：verifybysystest
+2020-12-21 15:19:16 [main] [com.cases.BaseCase] [INFO] - 字段9: 断言失败！正则表达式字段：$.data.id,实际值：null，期望值：1pkl0d9dofs0
+2020-12-21 15:19:16 [main] [com.cases.BaseCase] [INFO] - 字段10: 断言失败！正则表达式字段：$.data.sceneId,实际值：null，期望值：firstbysystest
+2020-12-21 15:19:16 [main] [com.cases.BaseCase] [INFO] - -----响应断言失败!!------
+2020-12-21 15:19:17 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 4,用例标题: 根据id删除验证策略，支持批量-----
+2020-12-21 15:19:17 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 15:19:17 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 5,用例标题: 查询分组策略列表中所有策略-----
+2020-12-21 15:19:17 [main] [com.cases.BaseCase] [INFO] - 字段3: 断言失败！正则表达式字段：$.total,实际值：3，期望值：2
+2020-12-21 15:19:17 [main] [com.cases.BaseCase] [INFO] - -----响应断言失败!!------
+2020-12-21 15:19:18 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 6,用例标题: 修改验证策略，代码不允许修改-----
+2020-12-21 15:19:18 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 15:19:18 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 7,用例标题: 新建分组策略-----
+2020-12-21 15:19:18 [main] [com.cases.BaseCase] [INFO] - 字段1: 断言失败！正则表达式字段：$.success,实际值：false，期望值：true
+2020-12-21 15:19:18 [main] [com.cases.BaseCase] [INFO] - 字段2: 断言失败！正则表达式字段：$.sysName,实际值：null，期望值：SDM.PARAM.POLICY.GROUP
+2020-12-21 15:19:18 [main] [com.cases.BaseCase] [INFO] - -----响应断言失败!!------
+2020-12-21 15:19:18 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 8,用例标题: 修改分组策略，代码不允许修改-----
+2020-12-21 15:19:18 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 15:19:19 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 9,用例标题: 根据id删除分组策略，支持批量-----
+2020-12-21 15:19:19 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 15:19:19 [main] [com.cases.BaseCase] [INFO] - Excel数据回写成功.
+2020-12-21 15:20:47 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 1,用例标题: 新建验证策略，优先级输入0~10000的整数且不能重复-----
+2020-12-21 15:20:47 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 15:20:48 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 2,用例标题: 查询验证策略列表中所有策略-----
+2020-12-21 15:20:48 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 15:20:48 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 3,用例标题: 获取到针对某个id的验证策略信息-----
+2020-12-21 15:20:48 [main] [com.cases.BaseCase] [INFO] - 字段1: 断言失败！正则表达式字段：$.data.priority,实际值：null，期望值：13
+2020-12-21 15:20:48 [main] [com.cases.BaseCase] [INFO] - 字段2: 断言失败！正则表达式字段：$.data.updateBy,实际值：null，期望值：admin
+2020-12-21 15:20:48 [main] [com.cases.BaseCase] [INFO] - 字段4: 断言失败！正则表达式字段：$.data.type,实际值：null，期望值：VERIFY
+2020-12-21 15:20:48 [main] [com.cases.BaseCase] [INFO] - 字段5: 断言失败！正则表达式字段：$.data.createBy,实际值：null，期望值：admin
+2020-12-21 15:20:48 [main] [com.cases.BaseCase] [INFO] - 字段6: 断言失败！正则表达式字段：$.data.createTime,实际值：null，期望值：1600065254590
+2020-12-21 15:20:48 [main] [com.cases.BaseCase] [INFO] - 字段7: 断言失败！正则表达式字段：$.data.name,实际值：null，期望值：验证策略bysystest
+2020-12-21 15:20:48 [main] [com.cases.BaseCase] [INFO] - 字段8: 断言失败！正则表达式字段：$.data.code,实际值：null，期望值：verifybysystest
+2020-12-21 15:20:48 [main] [com.cases.BaseCase] [INFO] - 字段9: 断言失败！正则表达式字段：$.data.id,实际值：null，期望值：1pkl0d9dofs0
+2020-12-21 15:20:48 [main] [com.cases.BaseCase] [INFO] - 字段10: 断言失败！正则表达式字段：$.data.sceneId,实际值：null，期望值：firstbysystest
+2020-12-21 15:20:48 [main] [com.cases.BaseCase] [INFO] - -----响应断言失败!!------
+2020-12-21 15:20:49 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 4,用例标题: 根据id删除验证策略，支持批量-----
+2020-12-21 15:20:49 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 15:20:50 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 5,用例标题: 查询分组策略列表中所有策略-----
+2020-12-21 15:20:50 [main] [com.cases.BaseCase] [INFO] - 字段3: 断言失败！正则表达式字段：$.total,实际值：2，期望值：3
+2020-12-21 15:20:50 [main] [com.cases.BaseCase] [INFO] - -----响应断言失败!!------
+2020-12-21 15:20:51 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 6,用例标题: 修改验证策略，代码不允许修改-----
+2020-12-21 15:20:51 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 15:20:51 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 7,用例标题: 新建分组策略-----
+2020-12-21 15:20:51 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 15:20:51 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 8,用例标题: 修改分组策略，代码不允许修改-----
+2020-12-21 15:20:51 [main] [com.cases.BaseCase] [INFO] - 字段1: 断言失败！正则表达式字段：$.success,实际值：false，期望值：true
+2020-12-21 15:20:51 [main] [com.cases.BaseCase] [INFO] - 字段2: 断言失败！正则表达式字段：$.sysName,实际值：null，期望值：SDM.PARAM.POLICY.GROUP
+2020-12-21 15:20:51 [main] [com.cases.BaseCase] [INFO] - -----响应断言失败!!------
+2020-12-21 15:20:52 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 9,用例标题: 根据id删除分组策略，支持批量-----
+2020-12-21 15:20:52 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 15:20:52 [main] [com.cases.BaseCase] [INFO] - Excel数据回写成功.
+2020-12-21 15:23:47 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 1,用例标题: 新建验证策略，优先级输入0~10000的整数且不能重复-----
+2020-12-21 15:23:47 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 15:23:47 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 2,用例标题: 查询验证策略列表中所有策略-----
+2020-12-21 15:23:47 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 15:23:48 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 3,用例标题: 获取到针对某个id的验证策略信息-----
+2020-12-21 15:23:48 [main] [com.cases.BaseCase] [INFO] - 字段1: 断言失败！正则表达式字段：$.data.priority,实际值：null，期望值：13
+2020-12-21 15:23:48 [main] [com.cases.BaseCase] [INFO] - 字段2: 断言失败！正则表达式字段：$.data.updateBy,实际值：null，期望值：admin
+2020-12-21 15:23:48 [main] [com.cases.BaseCase] [INFO] - 字段4: 断言失败！正则表达式字段：$.data.type,实际值：null，期望值：VERIFY
+2020-12-21 15:23:48 [main] [com.cases.BaseCase] [INFO] - 字段5: 断言失败！正则表达式字段：$.data.createBy,实际值：null，期望值：admin
+2020-12-21 15:23:48 [main] [com.cases.BaseCase] [INFO] - 字段6: 断言失败！正则表达式字段：$.data.createTime,实际值：null，期望值：1600065254590
+2020-12-21 15:23:48 [main] [com.cases.BaseCase] [INFO] - 字段7: 断言失败！正则表达式字段：$.data.name,实际值：null，期望值：验证策略bysystest
+2020-12-21 15:23:48 [main] [com.cases.BaseCase] [INFO] - 字段8: 断言失败！正则表达式字段：$.data.code,实际值：null，期望值：verifybysystest
+2020-12-21 15:23:48 [main] [com.cases.BaseCase] [INFO] - 字段9: 断言失败！正则表达式字段：$.data.id,实际值：null，期望值：1pkl0d9dofs0
+2020-12-21 15:23:48 [main] [com.cases.BaseCase] [INFO] - 字段10: 断言失败！正则表达式字段：$.data.sceneId,实际值：null，期望值：firstbysystest
+2020-12-21 15:23:48 [main] [com.cases.BaseCase] [INFO] - -----响应断言失败!!------
+2020-12-21 15:23:49 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 4,用例标题: 根据id删除验证策略，支持批量-----
+2020-12-21 15:23:49 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 15:23:49 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 5,用例标题: 查询分组策略列表中所有策略-----
+2020-12-21 15:23:49 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 15:23:50 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 6,用例标题: 修改验证策略，代码不允许修改-----
+2020-12-21 15:23:50 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 15:23:50 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 7,用例标题: 新建分组策略-----
+2020-12-21 15:23:50 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 15:23:50 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 8,用例标题: 修改分组策略，代码不允许修改-----
+2020-12-21 15:23:50 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 15:23:51 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 9,用例标题: 根据id删除分组策略，支持批量-----
+2020-12-21 15:23:51 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 15:23:51 [main] [com.cases.BaseCase] [INFO] - Excel数据回写成功.
+2020-12-21 16:10:46 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 1,用例标题: 新建验证策略，优先级输入0~10000的整数且不能重复-----
+2020-12-21 16:10:46 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 16:10:46 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 2,用例标题: 查询验证策略列表中所有策略-----
+2020-12-21 16:10:46 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 16:10:46 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 3,用例标题: 获取到针对某个id的验证策略信息-----
+2020-12-21 16:10:46 [main] [com.cases.BaseCase] [INFO] - 字段1: 断言失败！正则表达式字段：$.data.priority,实际值：null，期望值：13
+2020-12-21 16:10:46 [main] [com.cases.BaseCase] [INFO] - 字段2: 断言失败！正则表达式字段：$.data.updateBy,实际值：null，期望值：admin
+2020-12-21 16:10:46 [main] [com.cases.BaseCase] [INFO] - 字段4: 断言失败！正则表达式字段：$.data.type,实际值：null，期望值：VERIFY
+2020-12-21 16:10:46 [main] [com.cases.BaseCase] [INFO] - 字段5: 断言失败！正则表达式字段：$.data.createBy,实际值：null，期望值：admin
+2020-12-21 16:10:46 [main] [com.cases.BaseCase] [INFO] - 字段6: 断言失败！正则表达式字段：$.data.createTime,实际值：null，期望值：1600065254590
+2020-12-21 16:10:46 [main] [com.cases.BaseCase] [INFO] - 字段7: 断言失败！正则表达式字段：$.data.name,实际值：null，期望值：验证策略bysystest
+2020-12-21 16:10:46 [main] [com.cases.BaseCase] [INFO] - 字段8: 断言失败！正则表达式字段：$.data.code,实际值：null，期望值：verifybysystest
+2020-12-21 16:10:46 [main] [com.cases.BaseCase] [INFO] - 字段9: 断言失败！正则表达式字段：$.data.id,实际值：null，期望值：1pkl0d9dofs0
+2020-12-21 16:10:46 [main] [com.cases.BaseCase] [INFO] - 字段10: 断言失败！正则表达式字段：$.data.sceneId,实际值：null，期望值：firstbysystest
+2020-12-21 16:10:46 [main] [com.cases.BaseCase] [INFO] - -----响应断言失败!!------
+2020-12-21 16:10:47 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 4,用例标题: 根据id删除验证策略，支持批量-----
+2020-12-21 16:10:47 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 16:10:48 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 5,用例标题: 查询分组策略列表中所有策略-----
+2020-12-21 16:10:48 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 16:10:48 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 6,用例标题: 修改验证策略，代码不允许修改-----
+2020-12-21 16:10:48 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 16:10:48 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 7,用例标题: 新建分组策略-----
+2020-12-21 16:10:48 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 16:10:56 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 8,用例标题: 修改分组策略，代码不允许修改-----
+2020-12-21 16:10:56 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 16:10:57 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 9,用例标题: 根据id删除分组策略，支持批量-----
+2020-12-21 16:10:57 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 16:10:58 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 10,用例标题: 查询风险类型列表-----
+2020-12-21 16:10:58 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 16:10:58 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 11,用例标题: 新建风险类型-----
+2020-12-21 16:10:58 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 16:10:58 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 12,用例标题: 更新风险类型-----
+2020-12-21 16:10:58 [main] [com.cases.BaseCase] [INFO] - 字段1: 断言失败！正则表达式字段：$.success,实际值：false，期望值：true
+2020-12-21 16:10:58 [main] [com.cases.BaseCase] [INFO] - 字段2: 断言失败！正则表达式字段：$.sysName,实际值：null，期望值：SDM.PARAM.RISKLEVEL
+2020-12-21 16:10:58 [main] [com.cases.BaseCase] [INFO] - -----响应断言失败!!------
+2020-12-21 16:10:59 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 13,用例标题: 删除风险类型-----
+2020-12-21 16:10:59 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 16:10:59 [main] [com.cases.BaseCase] [INFO] - Excel数据回写成功.
+2020-12-21 16:12:47 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 1,用例标题: 新建验证策略，优先级输入0~10000的整数且不能重复-----
+2020-12-21 16:12:47 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 16:12:48 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 2,用例标题: 查询验证策略列表中所有策略-----
+2020-12-21 16:12:48 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 16:12:48 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 3,用例标题: 获取到针对某个id的验证策略信息-----
+2020-12-21 16:12:48 [main] [com.cases.BaseCase] [INFO] - 字段1: 断言失败！正则表达式字段：$.data.priority,实际值：null，期望值：13
+2020-12-21 16:12:48 [main] [com.cases.BaseCase] [INFO] - 字段2: 断言失败！正则表达式字段：$.data.updateBy,实际值：null，期望值：admin
+2020-12-21 16:12:48 [main] [com.cases.BaseCase] [INFO] - 字段4: 断言失败！正则表达式字段：$.data.type,实际值：null，期望值：VERIFY
+2020-12-21 16:12:48 [main] [com.cases.BaseCase] [INFO] - 字段5: 断言失败！正则表达式字段：$.data.createBy,实际值：null，期望值：admin
+2020-12-21 16:12:48 [main] [com.cases.BaseCase] [INFO] - 字段6: 断言失败！正则表达式字段：$.data.createTime,实际值：null，期望值：1600065254590
+2020-12-21 16:12:48 [main] [com.cases.BaseCase] [INFO] - 字段7: 断言失败！正则表达式字段：$.data.name,实际值：null，期望值：验证策略bysystest
+2020-12-21 16:12:48 [main] [com.cases.BaseCase] [INFO] - 字段8: 断言失败！正则表达式字段：$.data.code,实际值：null，期望值：verifybysystest
+2020-12-21 16:12:48 [main] [com.cases.BaseCase] [INFO] - 字段9: 断言失败！正则表达式字段：$.data.id,实际值：null，期望值：1pkl0d9dofs0
+2020-12-21 16:12:48 [main] [com.cases.BaseCase] [INFO] - 字段10: 断言失败！正则表达式字段：$.data.sceneId,实际值：null，期望值：firstbysystest
+2020-12-21 16:12:48 [main] [com.cases.BaseCase] [INFO] - -----响应断言失败!!------
+2020-12-21 16:12:50 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 4,用例标题: 根据id删除验证策略，支持批量-----
+2020-12-21 16:12:50 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 16:12:53 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 5,用例标题: 查询分组策略列表中所有策略-----
+2020-12-21 16:12:53 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 16:12:53 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 6,用例标题: 修改验证策略，代码不允许修改-----
+2020-12-21 16:12:53 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 16:12:54 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 7,用例标题: 新建分组策略-----
+2020-12-21 16:12:54 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 16:12:54 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 8,用例标题: 修改分组策略，代码不允许修改-----
+2020-12-21 16:12:54 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 16:12:55 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 9,用例标题: 根据id删除分组策略，支持批量-----
+2020-12-21 16:12:55 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 16:12:55 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 10,用例标题: 查询风险类型列表-----
+2020-12-21 16:12:55 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 16:12:55 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 11,用例标题: 新建风险类型-----
+2020-12-21 16:12:55 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 16:12:56 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 12,用例标题: 更新风险类型-----
+2020-12-21 16:12:56 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 16:12:57 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 13,用例标题: 删除风险类型-----
+2020-12-21 16:12:57 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 16:12:57 [main] [com.cases.BaseCase] [INFO] - Excel数据回写成功.
+2020-12-21 17:13:29 [main] [com.cases.BaseCase] [INFO] - Excel数据回写成功.
+2020-12-21 17:14:01 [main] [com.cases.BaseCase] [INFO] - Excel数据回写成功.
+2020-12-21 17:14:27 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 1,用例标题: 新建验证策略，优先级输入0~10000的整数且不能重复-----
+2020-12-21 17:14:27 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 17:14:27 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 2,用例标题: 查询验证策略列表中所有策略-----
+2020-12-21 17:14:27 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 17:14:27 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 3,用例标题: 获取到针对某个id的验证策略信息-----
+2020-12-21 17:14:27 [main] [com.cases.BaseCase] [INFO] - 字段1: 断言失败！正则表达式字段：$.data.priority,实际值：null，期望值：13
+2020-12-21 17:14:27 [main] [com.cases.BaseCase] [INFO] - 字段2: 断言失败！正则表达式字段：$.data.updateBy,实际值：null，期望值：admin
+2020-12-21 17:14:27 [main] [com.cases.BaseCase] [INFO] - 字段4: 断言失败！正则表达式字段：$.data.type,实际值：null，期望值：VERIFY
+2020-12-21 17:14:27 [main] [com.cases.BaseCase] [INFO] - 字段5: 断言失败！正则表达式字段：$.data.createBy,实际值：null，期望值：admin
+2020-12-21 17:14:27 [main] [com.cases.BaseCase] [INFO] - 字段6: 断言失败！正则表达式字段：$.data.createTime,实际值：null，期望值：1600065254590
+2020-12-21 17:14:27 [main] [com.cases.BaseCase] [INFO] - 字段7: 断言失败！正则表达式字段：$.data.name,实际值：null，期望值：验证策略bysystest
+2020-12-21 17:14:27 [main] [com.cases.BaseCase] [INFO] - 字段8: 断言失败！正则表达式字段：$.data.code,实际值：null，期望值：verifybysystest
+2020-12-21 17:14:27 [main] [com.cases.BaseCase] [INFO] - 字段9: 断言失败！正则表达式字段：$.data.id,实际值：null，期望值：1pkl0d9dofs0
+2020-12-21 17:14:27 [main] [com.cases.BaseCase] [INFO] - 字段10: 断言失败！正则表达式字段：$.data.sceneId,实际值：null，期望值：firstbysystest
+2020-12-21 17:14:27 [main] [com.cases.BaseCase] [INFO] - -----响应断言失败!!------
+2020-12-21 17:14:28 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 4,用例标题: 根据id删除验证策略，支持批量-----
+2020-12-21 17:14:28 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 17:14:29 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 5,用例标题: 查询分组策略列表中所有策略-----
+2020-12-21 17:14:29 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 17:14:29 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 6,用例标题: 修改验证策略，代码不允许修改-----
+2020-12-21 17:14:29 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 17:14:30 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 7,用例标题: 新建分组策略-----
+2020-12-21 17:14:30 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 17:14:30 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 8,用例标题: 修改分组策略，代码不允许修改-----
+2020-12-21 17:14:30 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 17:14:31 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 9,用例标题: 根据id删除分组策略，支持批量-----
+2020-12-21 17:14:31 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 17:14:31 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 10,用例标题: 查询风险类型列表-----
+2020-12-21 17:14:31 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 17:14:31 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 11,用例标题: 新建风险类型-----
+2020-12-21 17:14:31 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 17:14:32 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 12,用例标题: 更新风险类型-----
+2020-12-21 17:14:32 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 17:14:32 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 13,用例标题: 删除风险类型-----
+2020-12-21 17:14:32 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 17:14:33 [main] [com.cases.BaseCase] [INFO] - Excel数据回写成功.
+2020-12-21 17:14:57 [main] [com.cases.BaseCase] [INFO] - Excel数据回写成功.
+2020-12-21 17:16:54 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 1,用例标题: 新增一级场景-----
+2020-12-21 17:16:54 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 17:16:54 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 2,用例标题: 新建二级场景-----
+2020-12-21 17:16:54 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 17:16:58 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 3,用例标题: 新建二级场景的事件-----
+2020-12-21 17:16:58 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 17:16:59 [main] [com.utils.HttpUtils] [INFO] - com.alibaba.fastjson.JSONException: syntax error, pos 1, json : ids=scene02s
+2020-12-21 17:16:59 [main] [com.utils.HttpUtils] [INFO] - 错误，fastjson解析错误！
+2020-12-21 17:17:00 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 6,用例标题: 删除一级场景-----
+2020-12-21 17:17:00 [main] [com.cases.BaseCase] [INFO] - 字段1: 断言失败！正则表达式字段：$.code,实际值：null，期望值：success
+2020-12-21 17:17:00 [main] [com.cases.BaseCase] [INFO] - 字段2: 断言失败！正则表达式字段：$.success,实际值：false，期望值：true
+2020-12-21 17:17:00 [main] [com.cases.BaseCase] [INFO] - 字段3: 断言失败！正则表达式字段：$.msg,实际值：null，期望值：操作成功
+2020-12-21 17:17:00 [main] [com.cases.BaseCase] [INFO] - 字段4: 断言失败！正则表达式字段：$.total,实际值：null，期望值：0
+2020-12-21 17:17:00 [main] [com.cases.BaseCase] [INFO] - -----响应断言失败!!------
+2020-12-21 17:17:00 [main] [com.cases.BaseCase] [INFO] - Excel数据回写成功.
+2020-12-21 17:20:24 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 1,用例标题: 新增一级场景-----
+2020-12-21 17:20:24 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 17:20:24 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 2,用例标题: 新建二级场景-----
+2020-12-21 17:20:24 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 17:20:28 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 3,用例标题: 新建二级场景的事件-----
+2020-12-21 17:20:28 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 17:20:29 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 4,用例标题: 二级场景事件删除-----
+2020-12-21 17:20:29 [main] [com.cases.BaseCase] [INFO] - 字段1: 断言失败！正则表达式字段：$.success,实际值：null，期望值：true
+2020-12-21 17:20:29 [main] [com.cases.BaseCase] [INFO] - -----响应断言失败!!------
+2020-12-21 17:20:30 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 6,用例标题: 删除一级场景-----
+2020-12-21 17:20:30 [main] [com.cases.BaseCase] [INFO] - 字段1: 断言失败！正则表达式字段：$.code,实际值：null，期望值：success
+2020-12-21 17:20:30 [main] [com.cases.BaseCase] [INFO] - 字段2: 断言失败！正则表达式字段：$.success,实际值：false，期望值：true
+2020-12-21 17:20:30 [main] [com.cases.BaseCase] [INFO] - 字段3: 断言失败！正则表达式字段：$.msg,实际值：null，期望值：操作成功
+2020-12-21 17:20:30 [main] [com.cases.BaseCase] [INFO] - 字段4: 断言失败！正则表达式字段：$.total,实际值：null，期望值：0
+2020-12-21 17:20:30 [main] [com.cases.BaseCase] [INFO] - -----响应断言失败!!------
+2020-12-21 17:20:31 [main] [com.cases.BaseCase] [INFO] - Excel数据回写成功.
+2020-12-21 17:23:16 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 1,用例标题: 新增一级场景-----
+2020-12-21 17:23:16 [main] [com.cases.BaseCase] [INFO] - 字段1: 断言失败！正则表达式字段：$.success,实际值：false，期望值：true
+2020-12-21 17:23:16 [main] [com.cases.BaseCase] [INFO] - -----响应断言失败!!------
+2020-12-21 17:23:16 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 2,用例标题: 新建二级场景-----
+2020-12-21 17:23:16 [main] [com.cases.BaseCase] [INFO] - 字段1: 断言失败！正则表达式字段：$.success,实际值：false，期望值：true
+2020-12-21 17:23:16 [main] [com.cases.BaseCase] [INFO] - -----响应断言失败!!------
+2020-12-21 17:23:17 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 3,用例标题: 新建二级场景的事件-----
+2020-12-21 17:23:17 [main] [com.cases.BaseCase] [INFO] - 字段1: 断言失败！正则表达式字段：$.success,实际值：false，期望值：true
+2020-12-21 17:23:17 [main] [com.cases.BaseCase] [INFO] - -----响应断言失败!!------
+2020-12-21 17:23:17 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 4,用例标题: 二级场景事件删除-----
+2020-12-21 17:23:17 [main] [com.cases.BaseCase] [INFO] - 字段1: 断言失败！正则表达式字段：$.success,实际值：null，期望值：true
+2020-12-21 17:23:17 [main] [com.cases.BaseCase] [INFO] - -----响应断言失败!!------
+2020-12-21 17:23:17 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 5,用例标题: 删除二级场景-----
+2020-12-21 17:23:17 [main] [com.cases.BaseCase] [INFO] - 字段1: 断言失败！正则表达式字段：$.code,实际值：null，期望值：success
+2020-12-21 17:23:17 [main] [com.cases.BaseCase] [INFO] - 字段2: 断言失败！正则表达式字段：$.success,实际值：false，期望值：true
+2020-12-21 17:23:17 [main] [com.cases.BaseCase] [INFO] - 字段3: 断言失败！正则表达式字段：$.msg,实际值：null，期望值：操作成功
+2020-12-21 17:23:17 [main] [com.cases.BaseCase] [INFO] - 字段4: 断言失败！正则表达式字段：$.total,实际值：null，期望值：0
+2020-12-21 17:23:17 [main] [com.cases.BaseCase] [INFO] - -----响应断言失败!!------
+2020-12-21 17:23:17 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 6,用例标题: 删除一级场景-----
+2020-12-21 17:23:17 [main] [com.cases.BaseCase] [INFO] - 字段1: 断言失败！正则表达式字段：$.code,实际值：null，期望值：success
+2020-12-21 17:23:17 [main] [com.cases.BaseCase] [INFO] - 字段2: 断言失败！正则表达式字段：$.success,实际值：false，期望值：true
+2020-12-21 17:23:17 [main] [com.cases.BaseCase] [INFO] - 字段3: 断言失败！正则表达式字段：$.msg,实际值：null，期望值：操作成功
+2020-12-21 17:23:17 [main] [com.cases.BaseCase] [INFO] - 字段4: 断言失败！正则表达式字段：$.total,实际值：null，期望值：0
+2020-12-21 17:23:17 [main] [com.cases.BaseCase] [INFO] - -----响应断言失败!!------
+2020-12-21 17:23:18 [main] [com.cases.BaseCase] [INFO] - Excel数据回写成功.
+2020-12-21 17:25:32 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 1,用例标题: 新增一级场景-----
+2020-12-21 17:25:32 [main] [com.cases.BaseCase] [INFO] - 字段1: 断言失败！正则表达式字段：$.success,实际值：false，期望值：true
+2020-12-21 17:25:32 [main] [com.cases.BaseCase] [INFO] - -----响应断言失败!!------
+2020-12-21 17:25:32 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 2,用例标题: 新建二级场景-----
+2020-12-21 17:25:32 [main] [com.cases.BaseCase] [INFO] - 字段1: 断言失败！正则表达式字段：$.success,实际值：false，期望值：true
+2020-12-21 17:25:32 [main] [com.cases.BaseCase] [INFO] - -----响应断言失败!!------
+2020-12-21 17:25:32 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 3,用例标题: 新建二级场景的事件-----
+2020-12-21 17:25:32 [main] [com.cases.BaseCase] [INFO] - 字段1: 断言失败！正则表达式字段：$.success,实际值：false，期望值：true
+2020-12-21 17:25:32 [main] [com.cases.BaseCase] [INFO] - -----响应断言失败!!------
+2020-12-21 17:25:33 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 4,用例标题: 二级场景事件删除-----
+2020-12-21 17:25:33 [main] [com.cases.BaseCase] [INFO] - 字段1: 断言失败！正则表达式字段：$.success,实际值：null，期望值：true
+2020-12-21 17:25:33 [main] [com.cases.BaseCase] [INFO] - -----响应断言失败!!------
+2020-12-21 17:25:34 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 6,用例标题: 删除一级场景-----
+2020-12-21 17:25:34 [main] [com.cases.BaseCase] [INFO] - 字段1: 断言失败！正则表达式字段：$.code,实际值：null，期望值：success
+2020-12-21 17:25:34 [main] [com.cases.BaseCase] [INFO] - 字段2: 断言失败！正则表达式字段：$.success,实际值：false，期望值：true
+2020-12-21 17:25:34 [main] [com.cases.BaseCase] [INFO] - 字段3: 断言失败！正则表达式字段：$.msg,实际值：null，期望值：操作成功
+2020-12-21 17:25:34 [main] [com.cases.BaseCase] [INFO] - 字段4: 断言失败！正则表达式字段：$.total,实际值：null，期望值：0
+2020-12-21 17:25:34 [main] [com.cases.BaseCase] [INFO] - -----响应断言失败!!------
+2020-12-21 17:25:35 [main] [com.cases.BaseCase] [INFO] - Excel数据回写成功.
+2020-12-21 17:26:02 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 1,用例标题: 新增一级场景-----
+2020-12-21 17:26:02 [main] [com.cases.BaseCase] [INFO] - 字段1: 断言失败！正则表达式字段：$.success,实际值：false，期望值：true
+2020-12-21 17:26:02 [main] [com.cases.BaseCase] [INFO] - -----响应断言失败!!------
+2020-12-21 17:26:03 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 2,用例标题: 新建二级场景-----
+2020-12-21 17:26:03 [main] [com.cases.BaseCase] [INFO] - 字段1: 断言失败！正则表达式字段：$.success,实际值：false，期望值：true
+2020-12-21 17:26:03 [main] [com.cases.BaseCase] [INFO] - -----响应断言失败!!------
+2020-12-21 17:26:03 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 3,用例标题: 新建二级场景的事件-----
+2020-12-21 17:26:03 [main] [com.cases.BaseCase] [INFO] - 字段1: 断言失败！正则表达式字段：$.success,实际值：false，期望值：true
+2020-12-21 17:26:03 [main] [com.cases.BaseCase] [INFO] - -----响应断言失败!!------
+2020-12-21 17:26:04 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 4,用例标题: 二级场景事件删除-----
+2020-12-21 17:26:04 [main] [com.cases.BaseCase] [INFO] - 字段1: 断言失败！正则表达式字段：$.success,实际值：null，期望值：true
+2020-12-21 17:26:04 [main] [com.cases.BaseCase] [INFO] - -----响应断言失败!!------
+2020-12-21 17:26:04 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 5,用例标题: 删除二级场景-----
+2020-12-21 17:26:04 [main] [com.cases.BaseCase] [INFO] - 字段1: 断言失败！正则表达式字段：$.code,实际值：null，期望值：success
+2020-12-21 17:26:04 [main] [com.cases.BaseCase] [INFO] - 字段2: 断言失败！正则表达式字段：$.success,实际值：false，期望值：true
+2020-12-21 17:26:04 [main] [com.cases.BaseCase] [INFO] - 字段3: 断言失败！正则表达式字段：$.msg,实际值：null，期望值：操作成功
+2020-12-21 17:26:04 [main] [com.cases.BaseCase] [INFO] - 字段4: 断言失败！正则表达式字段：$.total,实际值：null，期望值：0
+2020-12-21 17:26:04 [main] [com.cases.BaseCase] [INFO] - -----响应断言失败!!------
+2020-12-21 17:26:05 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 6,用例标题: 删除一级场景-----
+2020-12-21 17:26:05 [main] [com.cases.BaseCase] [INFO] - 字段1: 断言失败！正则表达式字段：$.code,实际值：null，期望值：success
+2020-12-21 17:26:05 [main] [com.cases.BaseCase] [INFO] - 字段2: 断言失败！正则表达式字段：$.success,实际值：false，期望值：true
+2020-12-21 17:26:05 [main] [com.cases.BaseCase] [INFO] - 字段3: 断言失败！正则表达式字段：$.msg,实际值：null，期望值：操作成功
+2020-12-21 17:26:05 [main] [com.cases.BaseCase] [INFO] - 字段4: 断言失败！正则表达式字段：$.total,实际值：null，期望值：0
+2020-12-21 17:26:05 [main] [com.cases.BaseCase] [INFO] - -----响应断言失败!!------
+2020-12-21 17:26:05 [main] [com.cases.BaseCase] [INFO] - Excel数据回写成功.
+2020-12-21 17:26:53 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 1,用例标题: 新增一级场景-----
+2020-12-21 17:26:53 [main] [com.cases.BaseCase] [INFO] - 字段1: 断言失败！正则表达式字段：$.success,实际值：false，期望值：true
+2020-12-21 17:26:53 [main] [com.cases.BaseCase] [INFO] - -----响应断言失败!!------
+2020-12-21 17:26:53 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 2,用例标题: 新建二级场景-----
+2020-12-21 17:26:53 [main] [com.cases.BaseCase] [INFO] - 字段1: 断言失败！正则表达式字段：$.success,实际值：false，期望值：true
+2020-12-21 17:26:53 [main] [com.cases.BaseCase] [INFO] - -----响应断言失败!!------
+2020-12-21 17:26:53 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 3,用例标题: 新建二级场景的事件-----
+2020-12-21 17:26:53 [main] [com.cases.BaseCase] [INFO] - 字段1: 断言失败！正则表达式字段：$.success,实际值：false，期望值：true
+2020-12-21 17:26:53 [main] [com.cases.BaseCase] [INFO] - -----响应断言失败!!------
+2020-12-21 17:26:54 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 4,用例标题: 二级场景事件删除-----
+2020-12-21 17:26:54 [main] [com.cases.BaseCase] [INFO] - 字段1: 断言失败！正则表达式字段：$.success,实际值：null，期望值：true
+2020-12-21 17:26:54 [main] [com.cases.BaseCase] [INFO] - -----响应断言失败!!------
+2020-12-21 17:26:55 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 5,用例标题: 删除二级场景-----
+2020-12-21 17:26:55 [main] [com.cases.BaseCase] [INFO] - 字段1: 断言失败！正则表达式字段：$.code,实际值：null，期望值：success
+2020-12-21 17:26:55 [main] [com.cases.BaseCase] [INFO] - 字段2: 断言失败！正则表达式字段：$.success,实际值：false，期望值：true
+2020-12-21 17:26:55 [main] [com.cases.BaseCase] [INFO] - 字段3: 断言失败！正则表达式字段：$.msg,实际值：null，期望值：操作成功
+2020-12-21 17:26:55 [main] [com.cases.BaseCase] [INFO] - 字段4: 断言失败！正则表达式字段：$.total,实际值：null，期望值：0
+2020-12-21 17:26:55 [main] [com.cases.BaseCase] [INFO] - -----响应断言失败!!------
+2020-12-21 17:26:55 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 6,用例标题: 删除一级场景-----
+2020-12-21 17:26:55 [main] [com.cases.BaseCase] [INFO] - 字段1: 断言失败！正则表达式字段：$.code,实际值：null，期望值：success
+2020-12-21 17:26:55 [main] [com.cases.BaseCase] [INFO] - 字段2: 断言失败！正则表达式字段：$.success,实际值：false，期望值：true
+2020-12-21 17:26:55 [main] [com.cases.BaseCase] [INFO] - 字段3: 断言失败！正则表达式字段：$.msg,实际值：null，期望值：操作成功
+2020-12-21 17:26:55 [main] [com.cases.BaseCase] [INFO] - 字段4: 断言失败！正则表达式字段：$.total,实际值：null，期望值：0
+2020-12-21 17:26:55 [main] [com.cases.BaseCase] [INFO] - -----响应断言失败!!------
+2020-12-21 17:26:55 [main] [com.cases.BaseCase] [INFO] - Excel数据回写成功.
+2020-12-21 17:29:28 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 1,用例标题: 新增一级场景-----
+2020-12-21 17:29:28 [main] [com.cases.BaseCase] [INFO] - 字段1: 断言失败！正则表达式字段：$.success,实际值：false，期望值：true
+2020-12-21 17:29:28 [main] [com.cases.BaseCase] [INFO] - -----响应断言失败!!------
+2020-12-21 17:29:28 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 2,用例标题: 新建二级场景-----
+2020-12-21 17:29:28 [main] [com.cases.BaseCase] [INFO] - 字段1: 断言失败！正则表达式字段：$.success,实际值：false，期望值：true
+2020-12-21 17:29:28 [main] [com.cases.BaseCase] [INFO] - -----响应断言失败!!------
+2020-12-21 17:29:31 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 3,用例标题: 新建二级场景的事件-----
+2020-12-21 17:29:31 [main] [com.cases.BaseCase] [INFO] - -----响应断言成功------
+2020-12-21 17:29:32 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 4,用例标题: 二级场景事件删除-----
+2020-12-21 17:29:32 [main] [com.cases.BaseCase] [INFO] - 字段1: 断言失败！正则表达式字段：$.success,实际值：null，期望值：true
+2020-12-21 17:29:32 [main] [com.cases.BaseCase] [INFO] - -----响应断言失败!!------
+2020-12-21 17:29:34 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 5,用例标题: 删除二级场景-----
+2020-12-21 17:29:34 [main] [com.cases.BaseCase] [INFO] - 字段1: 断言失败！正则表达式字段：$.code,实际值：null，期望值：success
+2020-12-21 17:29:34 [main] [com.cases.BaseCase] [INFO] - 字段2: 断言失败！正则表达式字段：$.success,实际值：false，期望值：true
+2020-12-21 17:29:34 [main] [com.cases.BaseCase] [INFO] - 字段3: 断言失败！正则表达式字段：$.msg,实际值：null，期望值：操作成功
+2020-12-21 17:29:34 [main] [com.cases.BaseCase] [INFO] - 字段4: 断言失败！正则表达式字段：$.total,实际值：null，期望值：0
+2020-12-21 17:29:34 [main] [com.cases.BaseCase] [INFO] - -----响应断言失败!!------
+2020-12-21 17:29:34 [main] [com.cases.BaseCase] [INFO] - -----执行用例,用例编号: 6,用例标题: 删除一级场景-----
+2020-12-21 17:29:34 [main] [com.cases.BaseCase] [INFO] - 字段1: 断言失败！正则表达式字段：$.code,实际值：null，期望值：success
+2020-12-21 17:29:34 [main] [com.cases.BaseCase] [INFO] - 字段2: 断言失败！正则表达式字段：$.success,实际值：false，期望值：true
+2020-12-21 17:29:34 [main] [com.cases.BaseCase] [INFO] - 字段3: 断言失败！正则表达式字段：$.msg,实际值：null，期望值：操作成功
+2020-12-21 17:29:34 [main] [com.cases.BaseCase] [INFO] - 字段4: 断言失败！正则表达式字段：$.total,实际值：null，期望值：0
+2020-12-21 17:29:34 [main] [com.cases.BaseCase] [INFO] - -----响应断言失败!!------
+2020-12-21 17:29:34 [main] [com.cases.BaseCase] [INFO] - Excel数据回写成功.
